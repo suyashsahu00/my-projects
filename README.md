@@ -26,11 +26,12 @@ A complete collection of all my projects — from AI & Machine Learning to web a
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Lead Tracker** | A simple Chrome extension to save and manage sales leads or URLs. Save current tabs, add custom links, and delete all with one click | JavaScript • Chrome Extension • Productivity | [📂 Repo](https://github.com/suyashsahu00/lead_tracker) |
-| **Password Generator** | A secure password generator application with customizable options for creating strong passwords | JavaScript • Security • Web App | [📂 Repo](https://github.com/suyashsahu00/password_generator) |
-| **Build a BlackJack Game** | Interactive BlackJack card game built with JavaScript - A fun project from Scrimba learning | JavaScript • Game Development | [📂 Repo](https://github.com/suyashsahu00/Build_a_BlackJack_Game) |
-| **Scoreboard** | A dynamic scoreboard application for tracking game scores in real-time | JavaScript • HTML • CSS | [📂 Repo](https://github.com/suyashsahu00/Scoreboard) |
-| **Birthday Gift Site** | A personalized birthday gift website with interactive elements and animations | HTML • CSS • JavaScript | [📂 Repo](https://github.com/suyashsahu00/birthday-gift-site) |
+| **Lead Tracker** | A simple Chrome extension to save and manage sales leads or URLs. Save current tabs, add custom links, and delete all with one click | JavaScript • Chrome Extension • Productivity | [📂 Repo](https://github.com/suyashsahu00/lead_tracker) [🌐 Live](https://suyashsahu00.github.io/lead_tracker/) |
+| **Password Generator** | A secure password generator application with customizable options for creating strong passwords | JavaScript • Security • Web App | [📂 Repo](https://github.com/suyashsahu00/password_generator) [🌐 Live](https://suyashsahu00.github.io/password_generator/) |
+| **Build a BlackJack Game** | Interactive BlackJack card game built with JavaScript - A fun project from Scrimba learning | JavaScript • Game Development | [📂 Repo](https://github.com/suyashsahu00/Build_a_BlackJack_Game) [🌐 Live](https://suyashsahu00.github.io/Build_a_BlackJack_Game/) |
+| **Scoreboard** | A dynamic scoreboard application for tracking game scores in real-time | JavaScript • HTML • CSS | [📂 Repo](https://github.com/suyashsahu00/Scoreboard) [🌐 Live](https://suyashsahu00.github.io/Scoreboard/) |
+| **Birthday Gift Site** | A personalized birthday gift website with interactive elements and animations | HTML • CSS • JavaScript | [📂 Repo](https://github.com/suyashsahu00/birthday-gift-site) [🌐 Live](https://suyashsahu00.github.io/birthday-gift-site/) |
+| **Unit Converter** | A versatile unit converter application built as a solo project | HTML • CSS • JavaScript | [📂 Repo](https://github.com/suyashsahu00/Solo-Project---Unit-converter) [🌐 Live](https://suyashsahu00.github.io/Solo-Project---Unit-converter/) |
 
 ---
 
