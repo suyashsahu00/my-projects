@@ -9,6 +9,7 @@ A complete collection of all my projects — from AI & Machine Learning to web a
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **Ten Days of Voice Agents 2025** | Building 10 AI Voice Agents in 10 days using Murf AI's Falcon TTS API - Part of Murf AI's voice agents challenge | Python • AI • Voice APIs • TTS | [📂 Repo](https://github.com/suyashsahu00/ten-days-of-voice-agents-2025) |
+| **WORKSHOP-DEMO** | Production-ready LiveKit voice agent with multi-model fallback, semantic turn detection, and manager handoff using custom Cartesia TTS | Python • AI • Voice • LiveKit • Cartesia | [📂 Repo](https://github.com/suyashsahu00/WORKSHOP-DEMO) |
 
 ---
 
