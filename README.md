@@ -23,7 +23,7 @@ A complete collection of all my projects — from AI & Machine Learning to web a
 
 ---
 
-## 🌐 Web Development
+## 🌐 Development
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
