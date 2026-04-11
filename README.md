@@ -4,6 +4,14 @@ A complete collection of all my projects — from AI & Machine Learning to web a
 
 ---
 
+## 🧠 Machine Learning & Deep Learning
+ 
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Pet & Poultry Disease Classifier** | Deep learning web app to detect 30 diseases with 83.96% accuracy using EfficientNet-B0 | Python • PyTorch • Flask • Computer Vision | [📂 Repo](https://github.com/suyashsahu00/pet-poultry-disease-classifier) [🌐 Live](https://huggingface.co/spaces/suyashsahu00/pet-poultry-disease-classifier) |
+ 
+---
+ 
 ## 🤖 AI & Voice Technology
 
 | Project | Description | Tech Stack | Links |
