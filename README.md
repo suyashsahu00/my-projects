@@ -9,6 +9,7 @@ A complete collection of all my projects — from AI & Machine Learning to web a
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **Pet & Poultry Disease Classifier** | Deep learning web app to detect 30 diseases with 83.96% accuracy using EfficientNet-B0 | Python • PyTorch • Flask • Computer Vision | [📂 Repo](https://github.com/suyashsahu00/pet-poultry-disease-classifier) [🌐 Live](https://huggingface.co/spaces/suyashsahu00/pet-poultry-disease-classifier) |
+| **Plant Disease Recognition System** | AI-powered plant disease detection from leaf images — 38 diseases, 14 species, built with EfficientNetB4 and Flask | Python • TensorFlow • Flask • Computer Vision | [📂 Repo](https://github.com/suyashsahu00/Plant-Disease-Recognition-System-main) [🌐 Live](https://huggingface.co/spaces/suyashsahu00/plant-disease-recognition) |
  
 ---
  
