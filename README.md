@@ -36,6 +36,7 @@ A complete collection of all my projects — from AI & Machine Learning to web a
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **Personal Portfolio Frontend** | A professional, minimal, and responsive personal portfolio website showcasing skills as a Full Stack Developer | HTML5 • CSS3 • Vite | [📂 Repo](https://github.com/suyashsahu00/personal-portfolio-frontend) [🌐 Live](https://suyashsahu00.github.io/personal-portfolio-frontend/) |
 | **Lead Tracker** | A simple Chrome extension to save and manage sales leads or URLs. Save current tabs, add custom links, and delete all with one click | JavaScript • Chrome Extension • Productivity | [📂 Repo](https://github.com/suyashsahu00/lead_tracker) [🌐 Live](https://suyashsahu00.github.io/lead_tracker/) |
 | **Password Generator** | A secure password generator application with customizable options for creating strong passwords | JavaScript • Security • Web App | [📂 Repo](https://github.com/suyashsahu00/password_generator) [🌐 Live](https://suyashsahu00.github.io/password_generator/) |
 | **Build a BlackJack Game** | Interactive BlackJack card game built with JavaScript - A fun project from Scrimba learning | JavaScript • Game Development | [📂 Repo](https://github.com/suyashsahu00/Build_a_BlackJack_Game) [🌐 Live](https://suyashsahu00.github.io/Build_a_BlackJack_Game/) |
