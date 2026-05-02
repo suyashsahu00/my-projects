@@ -44,6 +44,7 @@ A complete collection of all my projects — from AI & Machine Learning to web a
 | **Birthday Gift Site** | A personalized birthday gift website with interactive elements and animations | HTML • CSS • JavaScript | [📂 Repo](https://github.com/suyashsahu00/birthday-gift-site) [🌐 Live](https://suyashsahu00.github.io/birthday-gift-site/) |
 | **Unit Converter** | A versatile unit converter application built as a solo project | HTML • CSS • JavaScript | [📂 Repo](https://github.com/suyashsahu00/Solo-Project---Unit-converter) [🌐 Live](https://suyashsahu00.github.io/Solo-Project---Unit-converter/) |
 | **Responsive Navbar** | A modern, responsive navigation bar with glassmorphism and interactive mobile toggle | HTML5 • CSS3 • JavaScript | [📂 Repo](https://github.com/suyashsahu00/responsive-navbar) [🌐 Live](https://suyashsahu00.github.io/responsive-navbar/) |
+| **Auth Form** | A modern, responsive, and aesthetically pleasing Authentication UI with real-time form validation | HTML5 • CSS3 • JavaScript | [📂 Repo](https://github.com/suyashsahu00/auth-form) [🌐 Live](https://suyashsahu00.github.io/auth-form/) |
 
 ---
 
