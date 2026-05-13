@@ -48,6 +48,14 @@ A complete collection of all my projects — from AI & Machine Learning to web a
 
 ---
 
+## 🏥 Embedded Systems & Hardware
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Medical Billing & Auto Dispenser** | Smart pharmacy system integrating a Python billing GUI with Arduino-controlled servo motors for automated medicine dispensing. Features PDF invoice generation (with GST & discounts), real-time inventory search from CSV, cart management, and visual LED feedback per dispensing box. | Python • Tkinter • PySerial • ReportLab • Arduino • C++ • Servo Motors | [📂 Repo](https://github.com/suyashsahu00/Medical_Dispenser_Project) |
+
+---
+
 ## 🏗️ Educational & Other
 
 | Project | Description | Tech Stack | Links |
