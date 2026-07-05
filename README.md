@@ -45,6 +45,7 @@ A complete collection of all my projects — from AI & Machine Learning to web a
 | **Unit Converter** | A versatile unit converter application built as a solo project | HTML • CSS • JavaScript | [📂 Repo](https://github.com/suyashsahu00/Solo-Project---Unit-converter) [🌐 Live](https://suyashsahu00.github.io/Solo-Project---Unit-converter/) |
 | **Responsive Navbar** | A modern, responsive navigation bar with glassmorphism and interactive mobile toggle | HTML5 • CSS3 • JavaScript | [📂 Repo](https://github.com/suyashsahu00/responsive-navbar) [🌐 Live](https://suyashsahu00.github.io/responsive-navbar/) |
 | **Auth Form** | A modern, responsive, and aesthetically pleasing Authentication UI with real-time form validation | HTML5 • CSS3 • JavaScript | [📂 Repo](https://github.com/suyashsahu00/auth-form) [🌐 Live](https://suyashsahu00.github.io/auth-form/) |
+| **World's Most Annoying Cookie Consent Website** | A humorous, highly interactive front-end project featuring a ridiculously persistent, data-hungry, and annoying cookie consent modal designed to practice JavaScript DOM manipulation, forms, and event handling. | HTML5 • CSS3 • JavaScript • Vite | [📂 Repo](https://github.com/suyashsahu00/worlds-most-annoying-cookie-consent-website) [🌐 Live](https://suyashsahu00.github.io/worlds-most-annoying-cookie-consent-website/) |
 
 ---
 
